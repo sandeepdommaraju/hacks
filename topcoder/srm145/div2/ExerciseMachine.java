@@ -1,4 +1,7 @@
-public class ExerciseMachine {	
+package topcoder.srm145.div2;
+
+
+public class ExerciseMachine {
 	public int getPercentages(String time){
 		int wholePercentages = 0;
 		String[] timeSplit = time.split(":");

@@ -1,3 +1,5 @@
+package topcoder.srm144.div1;
+
 import java.util.*;
 
 public class Lottery {

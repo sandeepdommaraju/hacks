@@ -1,4 +1,4 @@
-package srm146.div2;
+package topcoder.srm146.div2;;
 
 public class YahtzeeScore {
 	

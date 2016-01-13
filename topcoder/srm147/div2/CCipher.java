@@ -1,4 +1,4 @@
-package srm147.div2;
+package topcoder.srm147.div2;
 
 public class CCipher {
 	

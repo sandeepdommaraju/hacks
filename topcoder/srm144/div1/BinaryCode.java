@@ -1,3 +1,5 @@
+package topcoder.srm144.div1;
+
 public class BinaryCode {
 	
 	public String[] decode(String message){

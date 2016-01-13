@@ -1,3 +1,5 @@
+package topcoder.srm144.div2;
+
 public class Time {
 	
 	public String whatTime(int seconds){

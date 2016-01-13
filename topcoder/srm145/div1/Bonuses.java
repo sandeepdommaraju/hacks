@@ -1,3 +1,5 @@
+package topcoder.srm145.div1;
+
 import java.util.*;
 import java.util.Map.Entry;
 

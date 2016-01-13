@@ -1,3 +1,5 @@
+package topcoder.srm145.div2;
+
 public class ImageDithering {
 	
 	public int count(String dithered, String[] screen){

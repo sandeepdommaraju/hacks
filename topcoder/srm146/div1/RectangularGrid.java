@@ -1,3 +1,5 @@
+package topcoder.srm146.div1;
+
 public class RectangularGrid {
 	
 	public long countRectangles(int width, int height){

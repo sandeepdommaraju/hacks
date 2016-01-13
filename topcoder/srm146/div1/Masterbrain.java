@@ -1,4 +1,4 @@
-package srm146.div1;
+package topcoder.srm146.div1;
 
 /*
  * @idea copied from the top submission

@@ -1,4 +1,4 @@
-package srm147.div1;
+package topcoder.srm147.div1;
 
 public class PeopleCircle {
 	
